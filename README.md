@@ -7,4 +7,4 @@ Material for the course Data Science Fundamentals for Chemists and Biochemists a
 <a href="https://docs.google.com/presentation/d/1r1VBDVn80w4kRj_DOngcoUajiT0dwyMtN_8kS1Jfyus/edit?usp=sharing">Link</a> to welcome slides.
 
 
-First edition spring term 2022, S.Haug
+First edition spring term 2022, SigveHaug
