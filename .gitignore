@@ -1,3 +1,7 @@
 *solution*
 env/
 .evn
+.ipynb_checkpoints/
+myenv
+*.csv
+
